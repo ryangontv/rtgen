@@ -23,7 +23,7 @@ np_file_path = 'np.txt' # YOU NEED TO CREATE THESE FILES
 song_file_path = 'song.txt' # YOU NEED TO CREATE THESE FILES
 artist_file_path = 'artist.txt' # YOU NEED TO CREATE THESE FILES
 
-retry_count = 0
+retry_count = 4000000000000000
 
 while True:
     try:
